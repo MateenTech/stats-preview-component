@@ -27,7 +27,7 @@ The Challenge I took is:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Stats Card](https://stats-preview-bc1a43.netlify.app/)
 
 
 ### Built with
